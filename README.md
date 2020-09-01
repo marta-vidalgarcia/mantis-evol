@@ -5,7 +5,7 @@ Here we provide the R code from the paper: **Vidal-García, M., O'Hanlon, J.C., 
 If you have any questions you can contact [Marta Vidal-Garcia (marta.vidalga@gmail.com)](marta.vidalga@gmail.com)
 
 ***
-<img width="800" alt="Fig 2" src="https://github.com/marta-vidalgarcia/mantis-evol/blob/master/figs/Figure_2.png">
+<img width="1200" alt="Fig 2" src="https://github.com/marta-vidalgarcia/mantis-evol/blob/master/figs/Figure_2.png">
 
 ***
 
