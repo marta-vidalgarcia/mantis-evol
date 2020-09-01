@@ -7,6 +7,8 @@ If you have any questions you can contact [Marta Vidal-Garcia (marta.vidalga@gma
 ***
 <img width="800" alt="Fig 2" src="https://github.com/marta-vidalgarcia/mantis-evol/blob/master/figs/Figure_2.png">
 
+***
+
 ### **ABSTRACT**
 
 Anti-predator defences are typically regarded as relatively static signals that
@@ -31,5 +33,9 @@ which startle displays evolve, future work should include quantitative descripti
 of multiple display components, habitat type, and predatorcommunities.
 Understanding the evolution of startle displays is critical to our overall
 understanding of the theory behind predator–prey dynamics.
+
+***
+
+If you use the R code in this repository, please cite our paper (: **Vidal-García, M., O'Hanlon, J.C., Svenson, G.J, Umbers, K.D.L.** (***in press***) **The evolution of defensive displays in praying mantises. Proceedings of the Royal Society B**) and all the relevant R packages and repositories. Thank you!
 
 ***
