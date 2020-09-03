@@ -1,6 +1,6 @@
 # mantis-evol
 
-Here we provide the R code from the paper: **Vidal-García, M., O'Hanlon, J.C., Svenson, G.J, Umbers, K.D.L.** (***in press***) **The evolution of defensive displays in praying mantises. Proceedings of the Royal Society B**.
+Here we provide the R code from the paper: [**Vidal-García, M., O'Hanlon, J.C., Svenson, G.J, Umbers, K.D.L.** (***in press***) **The evolution of defensive displays in praying mantises. Proceedings of the Royal Society B**](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1016).
 
 If you have any questions about the code or analyses you can contact Marta Vidal-Garcia at marta.vidalga@gmail.com
 
@@ -36,6 +36,6 @@ understanding of the theory behind predator–prey dynamics.
 
 ***
 
-If you use the R code in this repository, please cite our paper (**Vidal-García, M., O'Hanlon, J.C., Svenson, G.J, Umbers, K.D.L.** (***in press***) **The evolution of defensive displays in praying mantises. Proceedings of the Royal Society B**) and all the relevant R packages and repositories. Thank you!
+If you use the R code in this repository, please cite our paper [**Vidal-García, M., O'Hanlon, J.C., Svenson, G.J, Umbers, K.D.L.** (***in press***) **The evolution of defensive displays in praying mantises. Proceedings of the Royal Society B**](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1016) and all the relevant R packages and repositories. Thank you!
 
 ***
