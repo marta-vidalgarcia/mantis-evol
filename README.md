@@ -2,7 +2,7 @@
 
 Here we provide the R code from the paper: **Vidal-García, M., O'Hanlon, J.C., Svenson, G.J, Umbers, K.D.L.** (***in press***) **The evolution of defensive displays in praying mantises. Proceedings of the Royal Society B**.
 
-If you have any questions about the code or analyses you can contact [Marta Vidal-Garcia (marta.vidalga@gmail.com)](marta.vidalga@gmail.com)
+If you have any questions about the code or analyses you can contact Marta Vidal-Garcia at marta.vidalga@gmail.com
 
 ***
 <img width="1200" alt="Fig 2" src="https://github.com/marta-vidalgarcia/mantis-evol/blob/master/figs/Figure_2.png">
